@@ -1,4 +1,4 @@
-FROM cruizba/ubuntu-dind:20.10.9
+FROM cruizba/ubuntu-dind:24.0.7
 
 WORKDIR /
 
